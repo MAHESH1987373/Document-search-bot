@@ -1,0 +1,13 @@
+Query: what is the name of the person mentioned in the docx ?
+Response: Salla Mahesh Kumar Reddy
+
+
+Query: what is the name of the person in the provided doc ?
+Response: The name of the person in the provided document is **Salla Mahesh Kumar Reddy**.
+
+Query: who is the cm of Andhra pradesh ?
+Response: The provided text is a resume for Salla Mahesh Kumar Reddy and does not contain information about the Chief Minister of Andhra Pradesh.
+
+Query: what is the name of the person 
+Response: The name of the person is **Salla Mahesh Kumar Reddy**.
+

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BackEndGeminiApi",
+    "\\BackEndGeminiApi\\Controllers",
+    "\\BackEndGeminiApi\\Models",
+    "\\BackEndGeminiApi\\Properties",
+    "\\BackEndGeminiApi\\Services"
+  ],
+  "SelectedNode": "\\BackEndGeminiApi\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
